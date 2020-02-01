@@ -11,9 +11,9 @@ using System.Runtime.InteropServices;
 
 namespace LoginModern
 {
-    public partial class Form1 : Form
+    public partial class login : Form
     {
-        public Form1()
+        public login()
         {
             InitializeComponent();
         }
@@ -82,6 +82,12 @@ namespace LoginModern
         {
             RealeseCapture();
             SendMessage(this.Handle, 0x112, 0xf012, 0);
+        }
+
+        private void linkregis_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            registro frm = new registro();
+            frm.Show();
         }
     }
 }

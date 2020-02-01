@@ -2,7 +2,6 @@ C:\Users\daniel\source\repos\LoginModern\LoginModern\bin\Debug\LoginModern.exe.c
 C:\Users\daniel\source\repos\LoginModern\LoginModern\bin\Debug\LoginModern.exe
 C:\Users\daniel\source\repos\LoginModern\LoginModern\bin\Debug\LoginModern.pdb
 C:\Users\daniel\source\repos\LoginModern\LoginModern\obj\Debug\LoginModern.csprojAssemblyReference.cache
-C:\Users\daniel\source\repos\LoginModern\LoginModern\obj\Debug\LoginModern.Form1.resources
 C:\Users\daniel\source\repos\LoginModern\LoginModern\obj\Debug\LoginModern.Properties.Resources.resources
 C:\Users\daniel\source\repos\LoginModern\LoginModern\obj\Debug\LoginModern.csproj.GenerateResource.cache
 C:\Users\daniel\source\repos\LoginModern\LoginModern\obj\Debug\LoginModern.csproj.CoreCompileInputs.cache
@@ -11,3 +10,6 @@ C:\Users\daniel\source\repos\LoginModern\LoginModern\obj\Debug\LoginModern.pdb
 C:\Users\daniel\source\repos\LoginModern\LoginModern\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
 C:\Users\daniel\source\repos\LoginModern\LoginModern\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
 C:\Users\daniel\source\repos\LoginModern\LoginModern\obj\Debug\LoginModern.csproj.CopyComplete
+C:\Users\daniel\source\repos\LoginModern\LoginModern\obj\Debug\LoginModern.login.resources
+C:\Users\daniel\source\repos\LoginModern\LoginModern\bin\Debug\MetroFramework.dll
+C:\Users\daniel\source\repos\LoginModern\LoginModern\obj\Debug\LoginModern.registro.resources
